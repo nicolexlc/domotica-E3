@@ -1,0 +1,24 @@
+Pines usados:
+
+GPIO 11
+GPIO 13
+GPIO 15
+GPIO 16
+GPIO 18
+
+Ideas:
+
+GIPO 11:
+	Aquí conectaremos un foco, comprar plafonera.
+
+GPIO 13:
+	Sensor de humo. Investigar.
+
+GPIO 15:
+	Portón. Usaremos un servo motor. Investigar.
+
+GPIO 16:
+	Ventilador.
+
+GPIO 17:
+	Foco 2.
